@@ -1,9 +1,8 @@
-## Hi there 👋
+Hi there! Thanks for stopping by, glad you made it to my little corner of the data world 👋💙
 
-<!--
-**Lindsaymgoff/Lindsaymgoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ✨ Lindsay Goff
+
 💙 Healthcare Professional → 📊 Healthcare & Social Impact Data Analyst
 Hey there! I’m Lindsay 😄
 A former healthcare professional turned data analyst, blending clinical experience with a passion for social impact and public health. I analyze real-world problems — from maternal mortality to missing children to early-onset colon cancer — all with the goal of creating awareness, driving change, and making data approachable and human.
@@ -75,6 +74,8 @@ Technical Skills
 🐍 Python (pandas, matplotlib, Jupyter) still mastering
 
 
+
+
 🎓 Certifications and Degrees
 
 Google Data Analytics Certificate 📘
@@ -84,6 +85,8 @@ Associate of Science
 BSN in progress
 
 More coming soon!
+
+
 
 
 💫 What Drives Me
@@ -97,6 +100,8 @@ amplifying overlooked issues,
 uncovering disparities,
 
 and creating data that sparks change — not confusion.
+
+
 
 📫 Let’s Connect
 
